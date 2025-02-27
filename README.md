@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **dennisdobra@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/dennis-dobra/overlay/1740522495972/single-media-viewer/?profileId=ACoAAEfw_cMBq33OysXDGI7IImb_DJMRKcdlzVQ](https://www.linkedin.com/in/dennis-dobra/overlay/1740522495972/single-media-viewer/?profileId=ACoAAEfw_cMBq33OysXDGI7IImb_DJMRKcdlzVQ)
+- 📄 Know about my experiences [https://shorturl.at/6dgXj](https://shorturl.at/6dgXj)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
