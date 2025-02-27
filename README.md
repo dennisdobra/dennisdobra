@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Dennis</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-- 🔭 I’m currently studying for **Bachelor's degree in CS**
+- 🔭 I’m currently studying for - **Bachelor's degree in CS**
 
-- 🌱 I’m currently learning about **AI, Databases, Optimization in Software Development**
+- 🌱 I’m currently learning about - **AI, Databases, Optimization in Software Development**
 
-- 👯 I’m looking to collaborate on **Innovative and impactful software projects that solve real-world problems**
+- 👯 I’m looking to collaborate on - **Innovative and impactful software projects that solve real-world problems**
 
-- 💬 Ask me about **C++, Algorithms, Networking, OS**
+- 💬 Ask me about - **C++, Algorithms, Networking, OS**
 
 - 📫 How to reach me **dennisdobra@gmail.com**
 
