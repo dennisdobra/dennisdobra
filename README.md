@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dennis</h1>
+<h1 align="center">Hi 👋, I'm Dennis-Stefan</h1>
 <h3 align="center">A passionate computer science student</h3>
 
 - 🔭 I’m currently studying for - **Bachelor's degree in CS**
