@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hello, I'm Dennis, a Computer Science Student:
 💻Computer Science Student<br>🔎 Currently Looking for a Job<br>🌱 I’m currently learning AI <br>🤝 I’m looking to collaborate on open source projects
 
 
