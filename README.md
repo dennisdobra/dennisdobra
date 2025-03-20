@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dennis</h1>
 <h3 align="center">A passionate computer science student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dennisdobra&label=Profile%20views&color=0e75b6&style=flat" alt="dennisdobra" /> </p>
-
 - 🔭 I’m currently studying for **Bachelor's degree in CS**
 
 - 🌱 I’m currently learning about **AI, Databases, Optimization in Software Development**
