@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying for **Bachelor's degree in CS**
 
-- 🌱 I’m currently learning about **AI, Databases, Optimization in Software Development**
+- 🌱 I’m currently learning about **Distributed Databases, System Design, Compilers**
 
 - 👯 I’m looking to collaborate on **Innovative and impactful software projects that solve real-world problems**
 
